@@ -7,5 +7,8 @@
     "minimumCoreVersion": "0.6.6",
     "scripts": [
         "scripts/countdown.js"
-    ]
+    ],
+    "manifest": "https://raw.githubusercontent.com/Arthanae/fvtt-countdowns/master/module.json",
+    "url": "https://github.com/Arthanae/fvtt-countdowns",
+    "zip": "https://github.com/Arthanae/fvtt-countdowns/releases/download/1.0.0/fvtt-countdowns.zip"
 }
