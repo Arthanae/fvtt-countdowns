@@ -1,0 +1,11 @@
+{
+    "name": "countdown",
+    "title": "Countdown - Timers for FoundryVTT",
+    "description": "Simple Countdown Timers",
+    "author": "Arthana",
+    "version": "1.0.0",
+    "minimumCoreVersion": "0.6.6",
+    "scripts": [
+        "scripts/countdown.js"
+    ]
+}
