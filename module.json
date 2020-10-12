@@ -9,5 +9,6 @@
         "scripts/countdown.js"
     ],
     "manifest": "https://raw.githubusercontent.com/Arthanae/fvtt-countdowns/master/module.json",
-    "url": "https://github.com/Arthanae/fvtt-countdowns"
+    "url": "https://github.com/Arthanae/fvtt-countdowns",
+    "download" : "https://github.com/Arthanae/fvtt-countdowns/releases/download/v1.0.0/countdown-v1.0.0.zip"
 }
